@@ -1,1 +1,2 @@
 dvc[s3]
+aws-cdk-lib==2.44.0
