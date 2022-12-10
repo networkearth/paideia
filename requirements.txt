@@ -1,2 +1,4 @@
 dvc[s3]
 aws-cdk-lib==2.44.0
+pandas==1.5.2
+ipykernel==6.19.2
