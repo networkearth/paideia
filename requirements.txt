@@ -2,3 +2,7 @@ dvc[s3]
 aws-cdk-lib==2.44.0
 pandas==1.5.2
 ipykernel==6.19.2
+plotly==5.11.0
+ipywidgets==8.0.3
+jupyter-dash==0.4.2
+nbformat==5.7.0
